@@ -30,7 +30,10 @@ test/
 # Documentation
 docs/
 examples/
-*.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+PUBLISH.md
+CHANGELOG.md
 BUILD_COMPLETE.md
 QUICK_START.md
 LAUNCH_CHECKLIST.sh
