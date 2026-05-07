@@ -268,7 +268,7 @@ Node.js only (requires event loop). Not suitable for browser environments.
 
 ## License
 
-MIT © [Your Name/Organization]
+MIT © ahmadraza100
 
 ---
 
@@ -278,9 +278,9 @@ Contributions welcome! This is an actively maintained open-source project.
 
 ## Resources
 
-- [GitHub Repository](https://github.com/yourusername/promise-pool-smart)
-- [Issue Tracker](https://github.com/yourusername/promise-pool-smart/issues)
-- [npm Package](https://www.npmjs.com/package/promise-pool-smart)
+- [GitHub Repository](https://github.com/ahmadraza100/promise-pool-smart)
+- [Issue Tracker](https://github.com/ahmadraza100/promise-pool-smart/issues)
+- [npm Package](https://www.npmjs.com/ahmadraza100/promise-pool-smart)
 
 ---
 
