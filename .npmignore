@@ -1,0 +1,56 @@
+# Source files
+src/
+tests/
+
+# Config files
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+jest.config.js
+.eslintrc.*
+.prettierrc*
+
+# Development
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+coverage/
+.nyc_output/
+test/
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+
+# Documentation
+docs/
+examples/
+*.md
+BUILD_COMPLETE.md
+QUICK_START.md
+LAUNCH_CHECKLIST.sh
+
+# Build artifacts
+*.tsbuildinfo
+.turbo/
+
+# Dependencies lock files
+yarn.lock
+pnpm-lock.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Misc
+.env*
+.cache/
