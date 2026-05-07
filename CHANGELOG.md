@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - onConcurrencyChange callback for monitoring adjustments
 - bail option to stop processing on first error
 - Comprehensive test suite with 40+ test cases
-- Production-ready documentation
+- Production-ready documentation and examples
 
 ### Technical Details
 - Zero runtime dependencies
